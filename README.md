@@ -24,7 +24,7 @@ their scores in a school competition. The counting board must know the following
 5. ClassE 2 – 2 ClassF
 
 ## Create Match Class that will store both home and away class with their scores:
-Match : 
+Match :
 String homeClass;
 String awayClass;
 int homeScore;
@@ -32,7 +32,7 @@ int awayScore;
 long startTime;
 }
 
-## Create Scoreboard as business logic class 
+## Create Scoreboard as business logic class
 ## To startMatch, updateMatch, finishMatch and getSummary
 
 ## Logic is first soring based on total of score like Class A 0 - 5 Class B i.e 0+5 = 5.
